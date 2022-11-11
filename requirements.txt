@@ -1,6 +1,6 @@
 sqlalchemy
 paste==3.2.0
-pyspark==2.4.4
+pyspark==3.2.2
 CherryPy==18.2.0
 Flask==1.1.1
 PasteScript==2.0.2
